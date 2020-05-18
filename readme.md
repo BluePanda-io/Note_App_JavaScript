@@ -1,21 +1,27 @@
-# Image Processing Masks-Convolution
+# Note App in JavaScript
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 04/05/2018
+This is an Interactive app Build from Scratch in JavaScript - Originally developed 15/01/2020
 
+# [Responsive Website Click](https://notes-app-m.netlify.app/)
 
 
 ## In this project it was developed 
-1. A function 
+The goal of this project was to Understand better User Interfaces and build a real Robust website that people can use easily 
+1. Build the BackEnd for the Creation of Notes
+2. BackEnd for the storage and sorting of the notes
+3. Combine the two pages and make a seamless experience
+4. Improve the UI using CSS
 
 ## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
+<img src="Images/CreatingNewNote.gif" width="600">
+Create a New Note
+<img src="Images/selectNotes.gif" width="600">
+Select one of the Notes
+<img src="Images/shortNotes.gif" width="600">
+Short the Notes
 
-## What I learned from this Project
-
-## What was the project difficulties 
-
-## My solutions to the difficulties
-
-## Notable Features
 
 ## Technology Used 
+- JavaScript
+- CSS
+- HTML
